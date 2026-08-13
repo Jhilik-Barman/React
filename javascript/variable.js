@@ -1,12 +1,12 @@
 //console.log("Jhilik"); //first code
 
-/*
+
 //using var You can re-declare x again
 var x = 5;
 var x = 10; // allowed
 console.log(x); // 10
 
-*/
+
 
 
 /*
